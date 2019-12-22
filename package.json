@@ -1,0 +1,21 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Tarea 1 falabella",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Seba",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "redis": "^2.8.0"
+  }
+}
